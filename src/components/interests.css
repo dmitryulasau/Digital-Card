@@ -1,0 +1,29 @@
+.card--content--interests {
+  background-color: var(--card-bg-color);
+  max-width: 250px;
+
+  margin: auto;
+  padding: 0 35px;
+}
+
+.interests--title {
+  margin-bottom: 6px;
+  margin: 0;
+  padding-top: 20px;
+
+  font-size: 16px;
+  color: var(--website-color);
+  line-height: 150%;
+  font-weight: 700;
+}
+
+.interests--text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: var(--text-gray-color);
+  margin-bottom: 0;
+  padding-bottom: 40px;
+}

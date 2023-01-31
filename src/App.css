@@ -1,0 +1,7 @@
+.card {
+  margin: auto;
+  padding: 20px 120px 60px 120px;
+  max-width: 550px;
+  height: 88vh;
+  background-color: var(--main-bg-color);
+}
